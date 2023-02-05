@@ -5,10 +5,12 @@ Below, you will find a collection of some of the projects that I have completed:
 
 # Spaceship Titanic
 [link](https://github.com/icosahedron10/spaceship-titanic/blob/main/Spaceship_Titanic.ipynb)
+
 This is some information about Spaceship Titanic.
 
 # The Effect of Five Factors on Elapsed Time Perception in a Visual Medium
 [link](https://github.com/icosahedron10/data-projects/blob/main/The%20Effect%20of%20Five%20Factors%20on%20Elapsed%20Time%20Perception%20in%20a%20Visual%20Medium.pdf)
+
 This project was completed as the capstone to my undergraduate degree in Mathematics.
 >Abstract: We consider the effects of five forms of stimuli on perception of elapsed time while watching short, animated videos in a 2^{5−1} fractional-factorial model. Similar to what consumers might experience in a digital waiting environment, the videos involve simple animated loops that repeat multiple times. The videos differ on five factors alone: the presence of an auditory chime, the use of color, contrast between the background and the foreground animation, the length of the video, and the periodicity of the loops. For each factor, half of the videos produced had the factor at its low level and half at its high level. Participants were shown one of the treatments and afterward asked to estimate the length of the video (n = 271). Four of five factors were found to have a statistically significant effect on perceived video length, along with two interactions.
 
