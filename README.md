@@ -6,7 +6,9 @@ Below, you will find a collection of some of the projects that I have completed:
 # Spaceship Titanic
 [link](https://github.com/icosahedron10/spaceship-titanic/blob/main/Spaceship_Titanic.ipynb)
 
-This is some information about Spaceship Titanic.
+In 2912, a cosmic mystery needs to be solved using data science skills. The Spaceship Titanic, an interstellar passenger liner, collided with a spacetime anomaly while on its maiden voyage, resulting in almost half of its 13,000 passengers being transported to an alternate dimension. The task is to predict which passengers were transported by the anomaly using records from the spaceship's damaged computer system in order to assist rescue teams.
+
+To solve this mystery, XGBoost and imputation techniques will be utilized. XGBoost is a powerful machine learning algorithm for classification and regression that has shown to be effective for many real-world problems. Imputation techniques will be used to handle missing or corrupted data in the records recovered from the spaceship's damaged computer system. By combining these two tools, the goal is to accurately predict which passengers were transported by the anomaly and help rescue them.
 
 # The Effect of Five Factors on Elapsed Time Perception in a Visual Medium
 [link](https://github.com/icosahedron10/data-projects/blob/main/The%20Effect%20of%20Five%20Factors%20on%20Elapsed%20Time%20Perception%20in%20a%20Visual%20Medium.pdf)
@@ -16,6 +18,7 @@ This project was completed as the capstone to my undergraduate degree in Mathema
 
 # CIFAR10 Classification
 [link](https://github.com/icosahedron10/cifar10-cnn/blob/main/CIFAR10.ipynb)
+
 The CIFAR-10 dataset is widely used for image classification tasks and has been a benchmark in the field. This notebook aims to introduce the different layers of CNNs using CIFAR-10, including convolutional, pooling, normalizing, and fully connected layers, and explain how they work together for accurate image classification. The goal with this notebook is to provide an introductory understanding of CNNs and their implementation, and equip readers with the knowledge to build their own CNNs for image classification tasks.
 
 # Fraud Detection
