@@ -1,7 +1,7 @@
 ## Jake Madsen's Data Portfolio
 # Intro
-My name is Jake Madsen, and I am a student at Colorado State University. I will graduate in July 2023 with a Master in Applied Statistics, and am passionate about the world of data. I enjoy a quiet life with my wife and two cats in Colorado, with traveling, crafting, and baking as some of our favorite hobbies. The total volume of data collected worldwide has been increasing exponentially since around 2010, while cutting-edge advancements in AI have made sizable impacts on the world we live in already despite it's infancy. I want to create solutions around this growing data landscape, and right now is the perfect time to be taking my first steps.
-Below, you will find a collection of some of the projects that I have completed:
+
+My name is Jake Madsen and I am a graduate student at Colorado State University pursuing a Master of Applied Statistics. With my anticipated graduation in July 2023, I am deeply invested in the field of data, its potential to solve complex problems, and the recent exponential growth in global data volume. My goal is to make a positive impact in this field by utilizing my skills and knowledge to create innovative solutions. The following are selected examples of my past projects and experiences in the field of data analysis.
 
 # Spaceship Titanic
 [link](https://github.com/icosahedron10/spaceship-titanic/blob/main/Spaceship_Titanic.ipynb)
