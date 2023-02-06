@@ -15,7 +15,8 @@ This project was completed as the capstone to my undergraduate degree in Mathema
 >Abstract: We consider the effects of five forms of stimuli on perception of elapsed time while watching short, animated videos in a 2^{5−1} fractional-factorial model. Similar to what consumers might experience in a digital waiting environment, the videos involve simple animated loops that repeat multiple times. The videos differ on five factors alone: the presence of an auditory chime, the use of color, contrast between the background and the foreground animation, the length of the video, and the periodicity of the loops. For each factor, half of the videos produced had the factor at its low level and half at its high level. Participants were shown one of the treatments and afterward asked to estimate the length of the video (n = 271). Four of five factors were found to have a statistically significant effect on perceived video length, along with two interactions.
 
 # CIFAR10 Classification
-This is some information about CIFAR10
+[link](https://github.com/icosahedron10/cifar10-cnn/blob/main/CIFAR10.ipynb)
+The CIFAR-10 dataset is widely used for image classification tasks and has been a benchmark in the field. This notebook aims to introduce the different layers of CNNs using CIFAR-10, including convolutional, pooling, normalizing, and fully connected layers, and explain how they work together for accurate image classification. The goal with this notebook is to provide an introductory understanding of CNNs and their implementation, and equip readers with the knowledge to build their own CNNs for image classification tasks.
 
 # Fraud Detection
 This is some information about fraud detection.
